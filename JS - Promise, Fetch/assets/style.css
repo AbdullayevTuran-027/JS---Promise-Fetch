@@ -1,0 +1,33 @@
+.area {
+    margin-top: 60px;
+    display: flex;
+  }
+  .input-group {
+    width: 320px;
+  }
+  .form-select {
+    width: 155px;
+    margin-left: 20px;
+    height: 50px;
+  }
+  .btn-primary {
+    margin-left: 20px;
+    height: 50px;
+  }
+  .line {
+    display: flex;
+  }
+  .line-sky {
+    display: flex;
+    align-items: center;
+    text-align: center;
+  }
+  p {
+    margin-left: 5px;
+  }
+  .sky {
+    margin: unset;
+  }
+  .erorr {
+    color: rgb(0, 255, 89);
+  }
